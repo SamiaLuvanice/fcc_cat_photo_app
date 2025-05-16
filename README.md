@@ -1,7 +1,10 @@
-# Atividade do Curso de Desenvolvimento Fullstack
+# 💻 Atividade – Curso de Desenvolvimento Fullstack
 
-Este repositório contém o código referente à entrega da atividade proposta no curso de **Desenvolvimento Fullstack**, com base nos exercícios do [freeCodeCamp](https://www.freecodecamp.org/), voltados para o aprendizado de **HTML**.
+Este repositório contém o código desenvolvido como parte da atividade prática do **Módulo Básico** do curso de **Desenvolvimento Fullstack**, ministrado pela professora **Fernanda Nascimento**.  
+A atividade é baseada nos exercícios da plataforma [freeCodeCamp](https://www.freecodecamp.org/), com foco no aprendizado e aplicação de conceitos fundamentais de **HTML**.
 
-## Objetivo
+---
 
-Praticar e consolidar os conhecimentos fundamentais de HTML por meio de desafios e exercícios práticos.
+## 🎯 Objetivo
+
+Consolidar os conhecimentos introdutórios em **HTML** por meio de desafios práticos, promovendo a familiarização com a estrutura, semântica e boas práticas de marcação em páginas web.
